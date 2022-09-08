@@ -11,4 +11,4 @@
 3. Run test with command "npx playwright test"
 
 ## Api Library:
-https://rickandmortyapi.com/
+https://dummy.restapiexample.com/
